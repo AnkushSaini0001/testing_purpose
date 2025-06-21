@@ -1,2 +1,3 @@
 # testing_purpose
-done
+
+ok done
